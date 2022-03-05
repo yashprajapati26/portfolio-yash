@@ -309,7 +309,7 @@ h1, h2, h3, h4, h5, h6, figure {
 
 .fh5co-bg-dark {
   background: #2F3C4F;
-  background: #FF9000;
+  background:rgba(0, 0, 0, 0.9);
 }
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
@@ -403,7 +403,7 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 20px;
 }
 #fh5co-about .fh5co-social-icons li a:hover {
-  background: #FF9000;
+  background: red;
 }
 
 .fh5co-heading {
